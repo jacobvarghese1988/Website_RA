@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.rheinanalytica.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Meghna"
@@ -104,9 +104,8 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Themefisher"
-        copyrightURL = "http://www.themefisher.com"
-
+        copyright = "Rhein Analytica"
+        
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"

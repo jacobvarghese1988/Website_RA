@@ -1,4 +1,4 @@
-enable : true
+enable : false
 heading : Our
 headingSpan : Works
 filterList :
@@ -17,7 +17,7 @@ portfolioItem :
     icon : tf-ion-android-search
     URL : #
     title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : Lorem ipsum dolor sit   m,b,kbamet consectetur adipisicing elit. Ullam, nemo!
     
   - types : development
     image : images/portfolio/portfolio-2.jpg
