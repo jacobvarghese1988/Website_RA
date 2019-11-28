@@ -1,13 +1,28 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+title : Enable Industry 4.0 meaningful solutions for SMEs.
+description :  
+description2 : 
 aboutItem : 
   - icon : tf-circle-compass
-    title : SEO Optiminnnzed
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title : New advanced manufacturing monitoring system.
+    content : 
     
   - icon : tf-hotairballoon
     title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    content : 
+
+  - icon : tf-circle-compass
+    title : Ongoing level 3 system support.
+    content : 
+    
+  - icon : tf-hotairballoon
+    title : Tailor made digital solutions based on requirements.
+    content : 
+  - icon : tf-circle-compass
+    title : Ongoing level 3 system support.
+    content : 
+    
+  - icon : tf-hotairballoon
+    title : IT/OT infrastructure development and deployment.
+    content : 

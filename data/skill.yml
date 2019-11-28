@@ -1,8 +1,8 @@
 enable : true
 heading : Our
 headingSpan : Skills
-title : We’ve skilled in wide range of web and Other digital market tools.
-content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+title : We’ve skilled in wide range of Technical and Business functions.
+content : 
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : 01-
@@ -18,9 +18,9 @@ skillItem :
     itemPercent : 80%
     
   - itemNumber : 04-
-    itemName :  IOS Development
+    itemName :  IT/OT Development
     itemPercent : 95%
     
   - itemNumber : 05-
-    itemName :  Andriod Development
-    itemPercent : 75%
+    itemName :  System Development
+    itemPercent : 95%
