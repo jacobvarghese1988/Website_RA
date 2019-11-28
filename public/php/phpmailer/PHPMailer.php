@@ -1214,7 +1214,7 @@ class PHPMailer
                  * In addition to the addresses allowed by filter_var, also permits:
                  *  * dotless domains: `a@b`
                  *  * comments: `1234 @ local(blah) .machine .rheinanalytica`
-                 *  * quoted elements: `'"test blah"@rheinanalytica.org'`
+                 *  * quoted elements: `'"test blah"@rheinanalytica.com'`
                  *  * numeric TLDs: `a@b.123`
                  *  * unbracketed IPv4 literals: `a@192.168.0.1`
                  *  * IPv6 literals: 'first.last@[IPv6:a1::]'

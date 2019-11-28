@@ -1,6 +1,6 @@
 ---
 name: Somrat
-email: email2@rheinanalytica.org
+email: email2@rheinanalytica.com
 github: rheinanalytica
 ---
 

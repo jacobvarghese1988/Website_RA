@@ -1,6 +1,6 @@
 ---
 name: Jamica Jock
-email: email@rheinanalytica.org
+email: email@rheinanalytica.com
 github: rheinanalytica
 ---
 
