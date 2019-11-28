@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-baseURL = "http://www.rheinanalytica.com/"
+baseURL = "https://www.rheinanalytica.com/"
 =======
-baseURL = "http://rheinanalytica.com/"
+baseURL = "https://rheinanalytica.com/"
 >>>>>>> 81b1022b8b74955c49392e7533de1c4d2da700b9
 languageCode = "en-us"
 DefaultContentLanguage = "en"

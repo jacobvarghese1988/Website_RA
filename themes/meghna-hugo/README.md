@@ -20,7 +20,7 @@ Meghna is a clean, unique, business website template. Built with refined busines
 - [More Hugo Themes](https://themefisher.com/hugo-themes/)
 
 ## Demo
-[Live Demo](http://demo.themefisher.com/meghna-hugo/).
+[Live Demo](https://demo.themefisher.com/meghna-hugo/).
 
 ## Installation
 
@@ -32,7 +32,7 @@ $ cd themes
 $ git clone git@github.com:themefisher/meghna-hugo.git
 ```
 
-[Full Documentation](http://demo.themefisher.com/meghna-hugo/blog/installation/).
+[Full Documentation](https://demo.themefisher.com/meghna-hugo/blog/installation/).
 
 ## Reporting Issues
 
