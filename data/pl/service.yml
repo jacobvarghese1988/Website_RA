@@ -1,0 +1,16 @@
+enable : true
+heading : Our
+headingSpan : Services
+serviceItem :
+  
+  - icon : tf-genius
+    title : Consultation
+    content : .
+    
+  - icon : tf-target3
+    title : Application Development
+    content : 
+    
+  - icon : tf-lifesaver
+    title : Networking
+    content : 

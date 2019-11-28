@@ -1,0 +1,28 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : Enable Industry 4.0 meaningful solutions for SMEs.
+description :  
+description2 : 
+aboutItem : 
+  - icon : tf-circle-compass
+    title : New advanced manufacturing monitoring system.
+    content : 
+    
+  - icon : tf-hotairballoon
+    title : Easy Customization
+    content : 
+
+  - icon : tf-circle-compass
+    title : Ongoing level 3 system support.
+    content : 
+    
+  - icon : tf-hotairballoon
+    title : Tailor made digital solutions based on requirements.
+    content : 
+  - icon : tf-circle-compass
+    title : Ongoing level 3 system support.
+    content : 
+    
+  - icon : tf-hotairballoon
+    title : IT/OT infrastructure development and deployment.
+    content : 

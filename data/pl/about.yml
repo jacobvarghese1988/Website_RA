@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-tools
+  title : We're Creative
+  content : Rate of return on investment guranteed, Custom tailor made solution development with Rheinanalytica's agile platform.
+
+- icon : tf-strategy
+  title : We're Professional
+  content : Sucessfull pilot demosration before start of project, in-house Hackathon sessions to identify key focus areas..
+
+- icon : tf-anchor2
+  title : We're Genius
+  content : Cutting edge Machine learning and data lake platform.

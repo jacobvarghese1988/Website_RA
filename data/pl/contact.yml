@@ -1,0 +1,21 @@
+enable : true
+heading : Get In
+headingSpan : Touch
+title : Contact Details
+content : L
+enable_maps : true
+mapLatitude : 50.1152536
+mapLongitude: 8.6864978
+contactDetails :
+  - icon : tf-map-pin
+    info : "Porzellanhofstraße 660313 Frankfurt am Main Germany"
+    
+  - icon : tf-ion-ios-telephone-outline
+    info : "Phone: "
+    
+  - icon : tf-ion-iphone
+    info : "Fax: "
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: "
+    
