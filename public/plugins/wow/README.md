@@ -14,7 +14,7 @@ Follow [@mattaussaguel](//twitter.com/mattaussaguel) for updates as WOW evolves.
 
 ### [LIVE DEMO ➫](https://mynameismatthieu.com/WOW/)
 
-## Live examples
+## Live rheinanalyticas
 - [MaterialUp](https://www.materialup.com)
 - [Fliplingo](https://www.fliplingo.com)
 - [Streamline Icons](https://www.streamlineicons.com)
