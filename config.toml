@@ -54,7 +54,7 @@ summaryLength = 10
 # Site params
 [params]
 home= "Home"
-logo = "images/logo.jpg"
+logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
