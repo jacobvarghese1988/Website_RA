@@ -3,7 +3,7 @@ heading : Our
 headingSpan : Skills
 title : We’ve skilled in wide range of Technical and Business functions.
 content : 
-image : images/about/company-growth.jpg
+image : images/about/company-growth.png
 skillItem :
   - itemNumber : 01-
     itemName :  Business Development
